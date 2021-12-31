@@ -1,5 +1,10 @@
 
-
+# Unstability warnings:
+- We got various reports for VMWARE being NOT detected
+- Latest versions of Memu Player is undetected ([more info](https://github.com/Back-X/anti-vm/issues/3))
+- Some real environments are detected as virtual ([more info](https://github.com/Back-X/anti-vm/issues/4))
+- Hyper-visor won't be detected
+Please use it on your own risk.
 
  <p align=center>
 <h1 align=center>Anti Virtual Machine</h1><p align=center>
